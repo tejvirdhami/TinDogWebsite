@@ -7,7 +7,7 @@ body {
     color: #fff;
 }
 
-.container-fluid{
+.container-fluid {
     padding: 3% 15% 7%;
 }
 
@@ -59,7 +59,7 @@ h1 {
 /* Features Section */
 
 #features {
-    padding:7% 15%;
+    padding: 7% 15%;
     text-align: center;
     background-color: #fff;
     position: relative;
@@ -70,11 +70,11 @@ h1 {
     margin-bottom: 1rem;
 }
 
-.img:hover{
+.img:hover {
     color: #ff4c68;
 }
 
-h2{
+h2 {
     font-family: "Montserrat";
     font-weight: bold;
     font-size: 2.5rem;
@@ -148,13 +148,13 @@ p {
     text-align: center;
     background-color: #ff4c68;
     color: #fff;
-    padding:7% 15%;
+    padding: 7% 15%;
 }
 
 #footer {
     text-align: center;
     background-color: #fff;
-    padding:7% 15%;
+    padding: 7% 15%;
 }
 
 .footer-item {
